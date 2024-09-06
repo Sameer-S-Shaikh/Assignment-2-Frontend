@@ -1,0 +1,35 @@
+
+
+.marg{
+    margin-top: 400px;
+}
+.w{
+    width: 15%;
+}
+.create{
+    background-color: lightgray;
+    color: black;
+    padding: 5px;
+}
+main{
+    width: 100%;
+   
+}
+nav{
+    margin-left: 300px;
+}
+h3{
+    margin-left: 300px;
+}
+.a{
+    margin-top: -30px;
+}
+button{
+    margin-right: 10px;
+}
+aside{
+    margin-top: -150px;
+}
+.button{
+    background-color: lightgray;
+}
